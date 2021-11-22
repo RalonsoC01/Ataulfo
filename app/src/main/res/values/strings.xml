@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ataulfo</string>
+    <string name="Información">information about the study center</string>
+    <string name="ESO">GCSE</string>
+    <string name="Bachillerato">A-levels</string>
+    <string name="FormacionProfesional">Vocational Training</string>
 </resources>

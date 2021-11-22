@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ataulfo</string>
+    <string name="Información">información del centro de estudios</string>
+    <string name="ESO">ESO</string>
+    <string name="Bachillerato">Bachillerato</string>
+    <string name="FormacionProfesional">Formación profesional</string>
+</resources>
