@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
+            android:name=".FP"
+            android:exported="true" />
+        <activity
+            android:name=".bachiller"
+            android:exported="true" />
+        <activity
+            android:name=".eso"
+            android:exported="true" />
+        <activity
+            android:name=".informacion"
+            android:exported="true" />
+        <activity
             android:name=".inicio"
             android:exported="false" />
         <activity
@@ -25,6 +37,7 @@
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
+
     </application>
 
 </manifest>
